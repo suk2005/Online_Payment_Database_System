@@ -43,7 +43,6 @@ CREATE TABLE Merchants (
 
 
 -- CREATE PAYMENTMETHODS TABLE
--- Relationship: PaymentMethods -> Transactions
 
 CREATE TABLE PaymentMethods (
     PaymentMethodID   INT PRIMARY KEY,
