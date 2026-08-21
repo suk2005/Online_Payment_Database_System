@@ -20,7 +20,6 @@ CREATE TABLE Customers (
 
 
 -- CREATE ACCOUNTS TABLE
--- Relationship: Customers -> Accounts
 
 
 CREATE TABLE Accounts (
