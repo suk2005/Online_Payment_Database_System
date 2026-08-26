@@ -19,7 +19,7 @@ CREATE TABLE Customers (
 );
 
 
--- CREATE ACCOUNTS TABLE
+-- CREATE ACCOUNTS 
 
 CREATE TABLE Accounts (
     AccountID     INT PRIMARY KEY,
