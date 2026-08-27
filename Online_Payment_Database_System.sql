@@ -6,7 +6,6 @@ CREATE DATABASE OnlinePaymentDB;
 
 USE OnlinePaymentDB;
 
-
 -- CREATE CUSTOMERS TABLE
 
 CREATE TABLE Customers (
