@@ -20,6 +20,7 @@ CREATE TABLE Customers (
 
 -- CREATE ACCOUNTS TABLE
 
+
 CREATE TABLE Accounts (
     AccountID     INT PRIMARY KEY,
     CustomerID    INT NOT NULL,
