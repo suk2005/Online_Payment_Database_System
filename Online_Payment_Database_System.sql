@@ -7,7 +7,6 @@ CREATE DATABASE OnlinePaymentDB;
 USE OnlinePaymentDB;
 
 -- CREATE CUSTOMERS TABLE
-
 CREATE TABLE Customers (
     CustomerID       INT PRIMARY KEY,
     FirstName        VARCHAR(50) NOT NULL,
