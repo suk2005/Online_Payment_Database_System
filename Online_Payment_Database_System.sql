@@ -3,6 +3,7 @@
 DROP DATABASE IF EXISTS OnlinePaymentDB;
 
 CREATE DATABASE OnlinePaymentDB;
+
 USE OnlinePaymentDB;
 
 -- CREATE CUSTOMERS TABLE
